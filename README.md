@@ -9,5 +9,5 @@ Watch my *[DEMO VIDEOS](link)*
   - animation & game designing
 - [Breakout Game Extension](link)
   - animation & game designing
-- [Pedestrian Removing Application](link)
+- [Pedestrian Removing Application](https://github.com/dorinda721/MystanCode_projects/blob/main/pedestrian_removing_application/stanCodoshop.py)
   - image processing 
