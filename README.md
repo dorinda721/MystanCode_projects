@@ -10,4 +10,10 @@ Watch my *[DEMO VIDEOS](link)*
 - [Breakout Game Extension](link)
   - animation & game designing
 - [Pedestrian Removing Application](https://github.com/dorinda721/MystanCode_projects/blob/main/pedestrian_removing_application/stanCodoshop.py)
-  - image processing 
+  - image processing
+- [baby number sum](link)
+  - Web Crawler
+- [Weather Master](link)
+  - python semantics & syntax
+- [Weather Master](link)
+  - python semantics & syntax 
