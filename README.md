@@ -15,5 +15,3 @@ Watch my *[DEMO VIDEOS](link)*
   - Web Crawler
 - [Weather Master](link)
   - python semantics & syntax
-- [Weather Master](link)
-  - python semantics & syntax 
