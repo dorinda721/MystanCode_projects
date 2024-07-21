@@ -11,7 +11,7 @@ Watch my *[DEMO VIDEOS](link)*
   - animation & game designing
 - [Pedestrian Removing Application](https://github.com/dorinda721/MystanCode_projects/blob/main/pedestrian_removing_application/stanCodoshop.py)
   - image processing
-- [baby number sum](link)
+- [baby number sum](https://github.com/dorinda721/MystanCode_projects/blob/main/baby_number_sum/webcrawler.py)
   - Web Crawler
 - [Weather Master](link)
   - python semantics & syntax
