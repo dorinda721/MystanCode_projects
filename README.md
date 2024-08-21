@@ -13,5 +13,5 @@ Watch my *[DEMO VIDEOS](link)*
   - image processing
 - [baby number sum](https://github.com/dorinda721/MystanCode_projects/blob/main/baby_number_sum/webcrawler.py)
   - Web Crawler
-- [Weather Master](link)
+- [practice_assignment](link)
   - python semantics & syntax
