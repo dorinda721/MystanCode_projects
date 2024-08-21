@@ -13,5 +13,5 @@ Watch my *[DEMO VIDEOS](link)*
   - image processing
 - [baby number sum](https://github.com/dorinda721/MystanCode_projects/blob/main/baby_number_sum/webcrawler.py)
   - Web Crawler
-- [practice assignment](link)
+- [practice assignment]([link](https://github.com/dorinda721/MystanCode_projects/blob/main/practice_assignment/factorial.py))
   - python semantics & syntax
